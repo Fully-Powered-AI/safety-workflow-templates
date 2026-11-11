@@ -1,0 +1,49 @@
+{
+  "id": "emergency-drill-brief",
+  "name": "Emergency drill brief",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a fire, evacuation or other drill, the site or office manager gets one brief: the scenario the responsible person has approved, who does what, what each observer records, and the questions for the debrief. It writes no emergency plan.",
+  "directory": "https://fullypowered.ai/capabilities/emergency-drill-brief/",
+  "primary_function": "functions/health-safety-and-environment",
+  "functions": [
+    "functions/health-safety-and-environment",
+    "functions/operations-and-process-improvement",
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/logistics-and-trade",
+    "industries/hospitality",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "site-safety-induction-pack",
+    "business-continuity-plan",
+    "workplace-risk-assessment"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own map of the work of briefing a site drill: the approved scenario, the roles, the observation points drawn from the site's own arrangements and earlier findings, and the debrief questions."
+    }
+  ]
+}

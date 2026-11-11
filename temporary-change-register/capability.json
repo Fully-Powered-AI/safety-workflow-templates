@@ -1,0 +1,48 @@
+{
+  "id": "temporary-change-register",
+  "name": "Temporary change register",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For a site or operations manager with temporary changes to equipment, layout or process still in place: a register of every change with its expiry date, the checks still outstanding and the procedures and training it touches, ready for the competent person who decides what happens next.",
+  "directory": "https://fullypowered.ai/capabilities/temporary-change-register/",
+  "primary_function": "functions/health-safety-and-environment",
+  "functions": [
+    "functions/health-safety-and-environment",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/construction",
+    "industries/logistics-and-trade",
+    "industries/energy"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "preventive-maintenance-plan",
+    "incident-investigation-and-corrective-actions",
+    "site-safety-induction-pack"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of health, safety and environment work, and its own way of reviewing a list of temporary changes: dates, outstanding checks and affected procedures and training worked out from the person's files, a decision left to a named competent person, and a question wherever a fact is missing."
+    }
+  ]
+}

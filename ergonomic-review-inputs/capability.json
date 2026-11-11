@@ -1,0 +1,46 @@
+{
+  "id": "ergonomic-review-inputs",
+  "name": "Ergonomic review inputs",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For a supervisor preparing for an ergonomics assessor or a worker's complaint about a task: a task observation record of each step's movements, durations, loads and measurements as supplied, the measurements still missing, and what the people who do the task said.",
+  "directory": "https://fullypowered.ai/capabilities/ergonomic-review-inputs/",
+  "primary_function": "functions/health-safety-and-environment",
+  "functions": [
+    "functions/health-safety-and-environment"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/logistics-and-trade",
+    "industries/construction"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "workplace-risk-assessment",
+    "incident-investigation-and-corrective-actions",
+    "site-safety-induction-pack"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of health, safety and environment work, and its own method for recording a task: movements, times, loads and measurements kept exactly as supplied, the figures that are missing listed by name, and every judgement left to the ergonomics assessor."
+    }
+  ]
+}

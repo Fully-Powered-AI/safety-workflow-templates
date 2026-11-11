@@ -1,0 +1,46 @@
+{
+  "id": "safety-walk-follow-up",
+  "name": "Safety walk follow-up",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "After a safety walk, the manager gets a follow-up brief that ties each concern workers raised to the commitment the manager made, its owner and due date, and the message to give back. Gaps arrive as questions, never as guesses.",
+  "directory": "https://fullypowered.ai/capabilities/safety-walk-follow-up/",
+  "primary_function": "functions/health-safety-and-environment",
+  "functions": [
+    "functions/health-safety-and-environment",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/manufacturing",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "workplace-risk-assessment",
+    "incident-investigation-and-corrective-actions",
+    "site-safety-induction-pack"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of following up a leadership safety walk."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "lone-work-arrangements-review",
+  "name": "Lone work arrangements review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For each task someone does alone, the manager gets the check-in method, the places where nobody could be reached, who responds when a check-in is missed and how soon, and alternatives. A competent person decides what is acceptable.",
+  "directory": "https://fullypowered.ai/capabilities/lone-work-arrangements-review/",
+  "primary_function": "functions/health-safety-and-environment",
+  "functions": [
+    "functions/health-safety-and-environment",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/logistics-and-trade",
+    "industries/real-estate",
+    "industries/energy"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "workplace-risk-assessment",
+    "incident-investigation-and-corrective-actions",
+    "site-safety-induction-pack"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of health, safety and environment work, and its own method for reviewing lone-work arrangements: tasks, check-in methods, places and responders read against company-set limits."
+    }
+  ]
+}
