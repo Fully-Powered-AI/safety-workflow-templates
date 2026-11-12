@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "After a safety walk, the manager gets a follow-up brief that ties each concern workers raised to the commitment the manager made, its owner and due date, and the message to give back. Gaps arrive as questions, never as guesses.",
-  "directory": "https://fullypowered.ai/workflow templates/safety-walk-follow-up/",
+  "directory": "https://fullypowered.ai/workflows/safety-walk-follow-up/",
   "primary_function": "functions/health-safety-and-environment",
   "functions": [
     "functions/health-safety-and-environment",

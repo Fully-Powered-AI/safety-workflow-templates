@@ -2,7 +2,7 @@
 
 For each task someone does alone, the manager gets the check-in method, the places where nobody could be reached, who responds when a check-in is missed and how soon, and alternatives. A competent person decides what is acceptable.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/lone-work-arrangements-review/)*
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lone-work-arrangements-review/)*
 
 ## The outcome
 
@@ -78,9 +78,9 @@ Testing in your environment means running it on two or three tasks your competen
 
 ## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/workflow templates/workplace-risk-assessment/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
-- [Site safety induction pack](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)
+- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
 
 ## Make it yours
 

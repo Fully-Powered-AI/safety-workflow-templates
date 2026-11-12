@@ -2,7 +2,7 @@
 
 After a safety walk, the manager gets a follow-up brief that ties each concern workers raised to the commitment the manager made, its owner and due date, and the message to give back. Gaps arrive as questions, never as guesses.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/safety-walk-follow-up/)*
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/safety-walk-follow-up/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on one or two past walks your manag
 
 ## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/workflow templates/workplace-risk-assessment/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
-- [Site safety induction pack](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)
+- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 For a supervisor preparing for an ergonomics assessor or a worker's complaint about a task: a task observation record of each step's movements, durations, loads and measurements as supplied, the measurements still missing, and what the people who do the task said.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/ergonomic-review-inputs/)*
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ergonomic-review-inputs/)*
 
 ## The outcome
 
@@ -81,9 +81,9 @@ Testing in your environment means running it on two or three tasks your assessor
 
 ## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/workflow templates/workplace-risk-assessment/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
-- [Site safety induction pack](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)
+- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
 
 ## Make it yours
 

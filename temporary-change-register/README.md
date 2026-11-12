@@ -2,7 +2,7 @@
 
 For a site or operations manager with temporary changes to equipment, layout or process still in place: a register of every change with its expiry date, the checks still outstanding and the procedures and training it touches, ready for the competent person who decides what happens next.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/temporary-change-register/)*
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/temporary-change-register/)*
 
 ## The outcome
 
@@ -76,9 +76,9 @@ Testing in your environment means running it on a past month of your own log tha
 
 ## Related workflow templates
 
-- [Preventive maintenance plan](https://fullypowered.ai/workflow templates/preventive-maintenance-plan/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
-- [Site safety induction pack](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)
+- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
 
 ## Make it yours
 

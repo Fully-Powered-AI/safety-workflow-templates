@@ -2,7 +2,7 @@
 
 Before a fire, evacuation or other drill, the site or office manager gets one brief: the scenario the responsible person has approved, who does what, what each observer records, and the questions for the debrief. It writes no emergency plan.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/emergency-drill-brief/)*
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/emergency-drill-brief/)*
 
 ## The outcome
 
@@ -84,9 +84,9 @@ Testing in your environment means running it on a past drill your site remembers
 
 ## Related workflow templates
 
-- [Site safety induction pack](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)
-- [Business continuity plan](https://fullypowered.ai/workflow templates/business-continuity-plan/)
-- [Workplace risk assessment](https://fullypowered.ai/workflow templates/workplace-risk-assessment/)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
+- [Business continuity plan](https://fullypowered.ai/workflows/business-continuity-plan/)
+- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 A safety lead with a year of incident records and earlier actions gets them compared in groups: confirmed causes, what was done before, and where incidents recur, with questions for the team. A competent person judges what the pattern means.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/repeat-incident-pattern-review/)*
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/repeat-incident-pattern-review/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on a past year your safety lead alr
 
 ## Related workflow templates
 
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
-- [Workplace risk assessment](https://fullypowered.ai/workflow templates/workplace-risk-assessment/)
-- [Training needs analysis](https://fullypowered.ai/workflow templates/training-needs-analysis/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
+- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/)
 
 ## Make it yours
 
