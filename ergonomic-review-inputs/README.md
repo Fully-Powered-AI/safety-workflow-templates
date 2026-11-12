@@ -2,11 +2,11 @@
 
 For a supervisor preparing for an ergonomics assessor or a worker's complaint about a task: a task observation record of each step's movements, durations, loads and measurements as supplied, the measurements still missing, and what the people who do the task said.
 
-*Capability template · Health, safety and environment · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/ergonomic-review-inputs/)*
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/ergonomic-review-inputs/)*
 
 ## The outcome
 
-When a task is referred for an ergonomic assessment, the assessor's first questions are always the same: what exactly do people do, for how long, how often, handling what, and what has been measured? This capability puts the answers on one record, written from what the supervisor actually saw and measured, so the assessor spends the visit assessing instead of collecting.
+When a task is referred for an ergonomic assessment, the assessor's first questions are always the same: what exactly do people do, for how long, how often, handling what, and what has been measured? This workflow template puts the answers on one record, written from what the supervisor actually saw and measured, so the assessor spends the visit assessing instead of collecting.
 
 Each step of the task gets its own entry: the movements in the supervisor's own words, how long the step takes in one cycle (one complete run through all the steps of the task), the weights, heights and distances that were given, and the figures that were not. The record adds up what can be added up, such as time spent per step over a shift, and says plainly where a number is an estimate from a short observation. What the people who do the task said sits beside it, separate from what was observed, with the places the two disagree.
 
@@ -14,7 +14,7 @@ The record judges nothing. It scores no posture, rates no risk, compares no load
 
 ## Who starts the work, and when
 
-The supervisor or manager responsible for the task starts it: when an assessor is booked, when a worker or a team raises a complaint about a task, or when a task is about to change and someone wants it recorded first. They watch the task, time and weigh what they can, ask the people who do it, and run the capability the same day.
+The supervisor or manager responsible for the task starts it: when an assessor is booked, when a worker or a team raises a complaint about a task, or when a task is about to change and someone wants it recorded first. They watch the task, time and weigh what they can, ask the people who do it, and run the workflow template the same day.
 
 The ergonomics assessor, from inside the business or an outside adviser, receives the record and does the assessing.
 
@@ -44,7 +44,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where long-standing tasks are done the way they always have been until someone complains.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where higher volumes change how often and how long a task is done.
 
-It stays distinct from [workplace risk assessment](https://fullypowered.ai/capabilities/workplace-risk-assessment/), which rates hazards and proposes controls. This capability only records the task for the person who will judge it. [Incident investigation and corrective actions](https://fullypowered.ai/capabilities/incident-investigation-and-corrective-actions/) is the right place when an injury has already happened.
+It stays distinct from [workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/), which rates hazards and proposes controls. This workflow template only records the task for the person who will judge it. [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/) is the right place when an injury has already happened.
 
 ## What has to change for your company
 
@@ -52,9 +52,9 @@ Decide who counts as the assessor and how they prefer to receive a record. Keep 
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in three runs: the template and its example were revised after an independent review of the first, and again after a second review, and the record of the third is published with it. The first run was made by an assistant that did not write the template; the second and third runs were made by the assistant that revised it, so they do not replace an independent one. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in three runs: the template and its example were revised after an independent review of the first, and again after a second review, and the record of the third is published with it. The first run was made by an assistant that did not write the template; the second and third runs were made by the assistant that revised it, so they do not replace an independent one. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three tasks your assessor has already looked at, plus cases written in advance: a measurement table with a renamed column, a weight that differs between the notes and the table, a task with no timings, a worker's name and health detail in the feedback, a request to say whether a load is acceptable. The assessor checks every figure against the notes before anyone relies on the record. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three tasks your assessor has already looked at, plus cases written in advance: a measurement table with a renamed column, a weight that differs between the notes and the table, a task with no timings, a worker's name and health detail in the feedback, a request to say whether a load is acceptable. The assessor checks every figure against the notes before anyone relies on the record. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -65,11 +65,11 @@ Testing in your environment means running it on two or three tasks your assessor
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -79,12 +79,12 @@ Testing in your environment means running it on two or three tasks your assessor
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/capabilities/workplace-risk-assessment/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/capabilities/incident-investigation-and-corrective-actions/)
-- [Site safety induction pack](https://fullypowered.ai/capabilities/site-safety-induction-pack/)
+- [Workplace risk assessment](https://fullypowered.ai/workflow templates/workplace-risk-assessment/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
+- [Site safety induction pack](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

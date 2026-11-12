@@ -1,6 +1,6 @@
 # Emergency drill brief: an invented example
 
-*Illustrative example with invented data.* The company, the site, the roles, the arrangements, the findings, the dates and the times below are all invented, and the arrangements are not a model for any real site. The site is an invented packaging workshop with a first-floor office, run by an invented business called Company A. First come the inputs the site manager supplied, in full, then the brief the capability returned.
+*Illustrative example with invented data.* The company, the site, the roles, the arrangements, the findings, the dates and the times below are all invented, and the arrangements are not a model for any real site. The site is an invented packaging workshop with a first-floor office, run by an invented business called Company A. First come the inputs the site manager supplied, in full, then the brief the workflow template returned.
 
 ## The inputs
 
@@ -155,6 +155,6 @@ Stop the drill if: a real emergency happens, anyone is hurt, or the drill lead c
 
 **Not covered**
 
-This brief does not direct a live emergency, does not demonstrate rescue capability, is not an emergency plan and does not say what any law or regulator requires. It does not check how much one observer carries, whether two observation points fall at the same moment in different places, or whether an absence is inside the expected numbers; the Site manager looks at those when approving. It records what to watch and ask; the Site manager decides what the drill showed.
+This brief does not direct a live emergency, does not show that a rescue can be carried out, is not an emergency plan and does not say what any law or regulator requires. It does not check how much one observer carries, whether two observation points fall at the same moment in different places, or whether an absence is inside the expected numbers; the Site manager looks at those when approving. It records what to watch and ask; the Site manager decides what the drill showed.
 
 Draft for the Site manager's approval. Nothing has been announced, sent or run.

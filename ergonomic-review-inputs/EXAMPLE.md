@@ -1,6 +1,6 @@
 # Ergonomic review inputs: an invented example
 
-*Illustrative example with invented data.* The business, the people, the task, the measurements and the dates below are all invented. The business is an invented 30-person home-goods fulfilment company. Its warehouse supervisor is preparing for an external ergonomics assessor, after the packing team raised aching shoulders at a team meeting. First come the inputs the supervisor supplied, in full, then the record the capability returned for the assessor.
+*Illustrative example with invented data.* The business, the people, the task, the measurements and the dates below are all invented. The business is an invented 30-person home-goods fulfilment company. Its warehouse supervisor is preparing for an external ergonomics assessor, after the packing team raised aching shoulders at a team meeting. First come the inputs the supervisor supplied, in full, then the record the workflow template returned for the assessor.
 
 ## The inputs
 

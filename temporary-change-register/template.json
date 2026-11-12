@@ -1,10 +1,10 @@
 {
   "id": "temporary-change-register",
   "name": "Temporary change register",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For a site or operations manager with temporary changes to equipment, layout or process still in place: a register of every change with its expiry date, the checks still outstanding and the procedures and training it touches, ready for the competent person who decides what happens next.",
-  "directory": "https://fullypowered.ai/capabilities/temporary-change-register/",
+  "directory": "https://fullypowered.ai/workflow templates/temporary-change-register/",
   "primary_function": "functions/health-safety-and-environment",
   "functions": [
     "functions/health-safety-and-environment",

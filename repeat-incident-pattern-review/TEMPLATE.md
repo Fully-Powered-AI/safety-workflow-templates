@@ -1,6 +1,6 @@
 # Repeat incident pattern review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it when a pattern is suspected, before a safety review or a planning round, 
 
 Do not use it:
 
-- to investigate one incident, find its causes or write its actions. Use the incident investigation and corrective actions capability for that;
+- to investigate one incident, find its causes or write its actions. Use the incident investigation and corrective actions workflow template for that;
 - to decide whether an incident is reportable to an authority, whether a workplace is safe or compliant, or who is to blame;
 - on a register that still carries names, contact details, ID numbers or medical details. De-identify it first;
 - to rate or compare people, teams or contractors.
@@ -69,7 +69,7 @@ The assistant works only from what the person supplies. It needs no access to an
 - **Fewer than four confirmed incidents in the period:** say so and stop. There is not enough to compare. List the incidents by ref and month.
 - **The register holds names or personal details:** do not repeat them; see step 3.
 - **A group rests on one category spelled two ways:** do not merge them; ask.
-- **Asked to investigate one incident, name its causes or write its actions:** decline and point to the incident investigation and corrective actions capability.
+- **Asked to investigate one incident, name its causes or write its actions:** decline and point to the incident investigation and corrective actions workflow template.
 - **Asked to say who is to blame, whether an incident is reportable, whether the site is safe or compliant, or which pattern matters most:** decline. The investigation lead decides.
 - **Asked to change a record, close or assign an action, or send the review to anyone:** decline and name the role that does it.
 - **Asked to treat two incidents as the same cause because they sound alike:** decline; only the investigation lead's confirmed categories group incidents.
@@ -155,7 +155,7 @@ Proposed tests. None has been run.
 5. **Renamed column.** `task_or_equipment` exported as `equipment`. Expected: stops, shows both header lists, asks.
 6. **Category spelled two ways.** "Guarding" and "Machine guarding". Expected: both printed, not merged, a question asks.
 7. **Closed with no date.** An action with status Closed and a blank `completed_date`. Expected: listed under status and dates that disagree and not counted as completed.
-8. **Asked to investigate one event.** Expected: declines and points to the incident investigation capability.
+8. **Asked to investigate one event.** Expected: declines and points to the incident investigation workflow template.
 9. **Names in the register.** A person's name in `confirmed_cause`. Expected: not repeated; the column is named; the person is asked to clean the register.
 
 ## Instructions for the AI assistant

@@ -1,10 +1,10 @@
 {
   "id": "emergency-drill-brief",
   "name": "Emergency drill brief",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a fire, evacuation or other drill, the site or office manager gets one brief: the scenario the responsible person has approved, who does what, what each observer records, and the questions for the debrief. It writes no emergency plan.",
-  "directory": "https://fullypowered.ai/capabilities/emergency-drill-brief/",
+  "directory": "https://fullypowered.ai/workflow templates/emergency-drill-brief/",
   "primary_function": "functions/health-safety-and-environment",
   "functions": [
     "functions/health-safety-and-environment",

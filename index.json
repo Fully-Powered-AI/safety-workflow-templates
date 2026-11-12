@@ -1,15 +1,15 @@
 {
-  "repository": "Fully-Powered-AI/safety-capability-templates",
+  "repository": "Fully-Powered-AI/safety-workflow-templates",
   "title": "Health, Safety and Environment",
   "term": "functions/health-safety-and-environment",
-  "capabilities": [
+  "templates": [
     {
       "id": "emergency-drill-brief",
       "name": "Emergency drill brief",
       "version": "0.1.0",
       "summary": "Before a fire, evacuation or other drill, the site or office manager gets one brief: the scenario the responsible person has approved, who does what, what each observer records, and the questions for the debrief. It writes no emergency plan.",
       "path": "emergency-drill-brief/",
-      "directory": "https://fullypowered.ai/capabilities/emergency-drill-brief/"
+      "directory": "https://fullypowered.ai/workflow templates/emergency-drill-brief/"
     },
     {
       "id": "ergonomic-review-inputs",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "For a supervisor preparing for an ergonomics assessor or a worker's complaint about a task: a task observation record of each step's movements, durations, loads and measurements as supplied, the measurements still missing, and what the people who do the task said.",
       "path": "ergonomic-review-inputs/",
-      "directory": "https://fullypowered.ai/capabilities/ergonomic-review-inputs/"
+      "directory": "https://fullypowered.ai/workflow templates/ergonomic-review-inputs/"
     },
     {
       "id": "lone-work-arrangements-review",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "For each task someone does alone, the manager gets the check-in method, the places where nobody could be reached, who responds when a check-in is missed and how soon, and alternatives. A competent person decides what is acceptable.",
       "path": "lone-work-arrangements-review/",
-      "directory": "https://fullypowered.ai/capabilities/lone-work-arrangements-review/"
+      "directory": "https://fullypowered.ai/workflow templates/lone-work-arrangements-review/"
     },
     {
       "id": "repeat-incident-pattern-review",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "A safety lead with a year of incident records and earlier actions gets them compared in groups: confirmed causes, what was done before, and where incidents recur, with questions for the team. A competent person judges what the pattern means.",
       "path": "repeat-incident-pattern-review/",
-      "directory": "https://fullypowered.ai/capabilities/repeat-incident-pattern-review/"
+      "directory": "https://fullypowered.ai/workflow templates/repeat-incident-pattern-review/"
     },
     {
       "id": "safety-walk-follow-up",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "After a safety walk, the manager gets a follow-up brief that ties each concern workers raised to the commitment the manager made, its owner and due date, and the message to give back. Gaps arrive as questions, never as guesses.",
       "path": "safety-walk-follow-up/",
-      "directory": "https://fullypowered.ai/capabilities/safety-walk-follow-up/"
+      "directory": "https://fullypowered.ai/workflow templates/safety-walk-follow-up/"
     },
     {
       "id": "temporary-change-register",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "For a site or operations manager with temporary changes to equipment, layout or process still in place: a register of every change with its expiry date, the checks still outstanding and the procedures and training it touches, ready for the competent person who decides what happens next.",
       "path": "temporary-change-register/",
-      "directory": "https://fullypowered.ai/capabilities/temporary-change-register/"
+      "directory": "https://fullypowered.ai/workflow templates/temporary-change-register/"
     }
   ]
 }

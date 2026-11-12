@@ -1,6 +1,6 @@
 # Ergonomic review inputs
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -23,7 +23,7 @@ Do not use it:
 - **Runs it:** the supervisor or manager responsible for the task, who watches the task, takes the measurements and asks the people who do it.
 - **Supplies the facts:** the people who do the task, in what they say and in what the supervisor sees of their work.
 - **Receives the record and judges the task:** the ergonomics assessor, from inside the business or an outside adviser. Always a person.
-- **Decides what happens next:** the manager responsible for the task, with the assessor's findings. Not this capability.
+- **Decides what happens next:** the manager responsible for the task, with the assessor's findings. Not this workflow template.
 
 ## Inputs
 

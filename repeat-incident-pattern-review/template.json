@@ -1,10 +1,10 @@
 {
   "id": "repeat-incident-pattern-review",
   "name": "Repeat incident pattern review",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A safety lead with a year of incident records and earlier actions gets them compared in groups: confirmed causes, what was done before, and where incidents recur, with questions for the team. A competent person judges what the pattern means.",
-  "directory": "https://fullypowered.ai/capabilities/repeat-incident-pattern-review/",
+  "directory": "https://fullypowered.ai/workflow templates/repeat-incident-pattern-review/",
   "primary_function": "functions/health-safety-and-environment",
   "functions": [
     "functions/health-safety-and-environment",

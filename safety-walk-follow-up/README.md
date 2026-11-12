@@ -2,7 +2,7 @@
 
 After a safety walk, the manager gets a follow-up brief that ties each concern workers raised to the commitment the manager made, its owner and due date, and the message to give back. Gaps arrive as questions, never as guesses.
 
-*Capability template · Health, safety and environment · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/safety-walk-follow-up/)*
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/safety-walk-follow-up/)*
 
 ## The outcome
 
@@ -38,7 +38,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where docks, yards and vehicles produce concerns that cross teams.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where walks happen on a rhythm and the follow-up lives in someone's notebook.
 
-It is not a risk assessment. [Workplace risk assessment](https://fullypowered.ai/capabilities/workplace-risk-assessment/) rates hazards and proposes controls. This capability keeps track of what the manager promised in response to what people said, and does not judge whether a promise is enough.
+It is not a risk assessment. [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/) rates hazards and proposes controls. This workflow template keeps track of what the manager promised in response to what people said, and does not judge whether a promise is enough.
 
 ## What has to change for your company
 
@@ -46,9 +46,9 @@ Decide how you refer to roles so that no one is identified, and who counts as to
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. That run was by the model that revised the template after an earlier trial and an independent review, so it is not an independent check, and it was a first run: the check-in path has not been tried. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. That run was by the model that revised the template after an earlier trial and an independent review, so it is not an independent check, and it was a first run: the check-in path has not been tried. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on one or two past walks your manager remembers well, plus hard cases written in advance, each with its expected behavior: a concern with no commitment, a commitment with no owner, an owner who has not accepted, a name in the notes, a safety device described as not working, a due date earlier than the give-back date. The manager checks every line against the notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on one or two past walks your manager remembers well, plus hard cases written in advance, each with its expected behavior: a concern with no commitment, a commitment with no owner, an owner who has not accepted, a name in the notes, a safety device described as not working, a due date earlier than the give-back date. The manager checks every line against the notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -59,11 +59,11 @@ Testing in your environment means running it on one or two past walks your manag
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -73,12 +73,12 @@ Testing in your environment means running it on one or two past walks your manag
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/capabilities/workplace-risk-assessment/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/capabilities/incident-investigation-and-corrective-actions/)
-- [Site safety induction pack](https://fullypowered.ai/capabilities/site-safety-induction-pack/)
+- [Workplace risk assessment](https://fullypowered.ai/workflow templates/workplace-risk-assessment/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflow templates/incident-investigation-and-corrective-actions/)
+- [Site safety induction pack](https://fullypowered.ai/workflow templates/site-safety-induction-pack/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

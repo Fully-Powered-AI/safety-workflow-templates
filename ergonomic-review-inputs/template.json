@@ -1,10 +1,10 @@
 {
   "id": "ergonomic-review-inputs",
   "name": "Ergonomic review inputs",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For a supervisor preparing for an ergonomics assessor or a worker's complaint about a task: a task observation record of each step's movements, durations, loads and measurements as supplied, the measurements still missing, and what the people who do the task said.",
-  "directory": "https://fullypowered.ai/capabilities/ergonomic-review-inputs/",
+  "directory": "https://fullypowered.ai/workflow templates/ergonomic-review-inputs/",
   "primary_function": "functions/health-safety-and-environment",
   "functions": [
     "functions/health-safety-and-environment"
