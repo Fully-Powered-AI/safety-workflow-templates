@@ -86,7 +86,7 @@ Testing in your environment means running it on a past drill your site remembers
 
 - [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
 - [Business continuity plan](https://fullypowered.ai/workflows/business-continuity-plan/)
-- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Workplace risk assessment](../workplace-risk-assessment/)
 
 ## Make it yours
 

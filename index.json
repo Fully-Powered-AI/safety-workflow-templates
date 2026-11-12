@@ -50,6 +50,14 @@
       "summary": "For a site or operations manager with temporary changes to equipment, layout or process still in place: a register of every change with its expiry date, the checks still outstanding and the procedures and training it touches, ready for the competent person who decides what happens next.",
       "path": "temporary-change-register/",
       "directory": "https://fullypowered.ai/workflows/temporary-change-register/"
+    },
+    {
+      "id": "workplace-risk-assessment",
+      "name": "Workplace risk assessment",
+      "version": "0.1.0",
+      "summary": "For one task or workplace, the site or operations manager gets each hazard, who could be harmed, the controls already in place, a likelihood-and-severity rating before and after, and further controls with an owner and a date, ready for a competent person to review and sign.",
+      "path": "workplace-risk-assessment/",
+      "directory": "https://fullypowered.ai/workflows/workplace-risk-assessment/"
     }
   ]
 }

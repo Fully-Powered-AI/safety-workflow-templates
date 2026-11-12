@@ -76,7 +76,7 @@ Testing in your environment means running it on a past year your safety lead alr
 ## Related workflow templates
 
 - [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
-- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Workplace risk assessment](../workplace-risk-assessment/)
 - [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/)
 
 ## Make it yours

@@ -2,7 +2,7 @@
 
 Nothing learned the hard way twice. These workflow templates take the follow-up, reviewing and briefing around safety at work and give an AI assistant a precise way to prepare it. They state no legal duty and certify nothing: a competent person decides what is safe.
 
-This repository holds 6 workflow templates for site, operations and safety managers. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 7 workflow templates for site, operations and safety managers. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The workflow templates
 
@@ -12,6 +12,7 @@ This repository holds 6 workflow templates for site, operations and safety manag
 - **[Repeat incident pattern review](repeat-incident-pattern-review/)**: A safety lead with a year of incident records and earlier actions gets them compared in groups: confirmed causes, what was done before, and where incidents recur, with questions for the team. A competent person judges what the pattern means.
 - **[Safety walk follow-up](safety-walk-follow-up/)**: After a safety walk, the manager gets a follow-up brief that ties each concern workers raised to the commitment the manager made, its owner and due date, and the message to give back. Gaps arrive as questions, never as guesses.
 - **[Temporary change register](temporary-change-register/)**: For a site or operations manager with temporary changes to equipment, layout or process still in place: a register of every change with its expiry date, the checks still outstanding and the procedures and training it touches, ready for the competent person who decides what happens next.
+- **[Workplace risk assessment](workplace-risk-assessment/)**: For one task or workplace, the site or operations manager gets each hazard, who could be harmed, the controls already in place, a likelihood-and-severity rating before and after, and further controls with an owner and a date, ready for a competent person to review and sign.
 
 ## How to use one
 

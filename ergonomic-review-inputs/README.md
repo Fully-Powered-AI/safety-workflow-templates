@@ -81,7 +81,7 @@ Testing in your environment means running it on two or three tasks your assessor
 
 ## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Workplace risk assessment](../workplace-risk-assessment/)
 - [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
 - [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
 
