@@ -2,12 +2,13 @@
 
 Nothing learned the hard way twice. These workflow templates take the follow-up, reviewing and briefing around safety at work and give an AI assistant a precise way to prepare it. They state no legal duty and certify nothing: a competent person decides what is safe.
 
-This repository holds 7 workflow templates for site, operations and safety managers. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 8 workflow templates for site, operations and safety managers. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The workflow templates
 
 - **[Emergency drill brief](emergency-drill-brief/)**: Before a fire, evacuation or other drill, the site or office manager gets one brief: the scenario the responsible person has approved, who does what, what each observer records, and the questions for the debrief. It writes no emergency plan.
 - **[Ergonomic review inputs](ergonomic-review-inputs/)**: For a supervisor preparing for an ergonomics assessor or a worker's complaint about a task: a task observation record of each step's movements, durations, loads and measurements as supplied, the measurements still missing, and what the people who do the task said.
+- **[Keys and badges reconciliation](keys-and-badges-reconciliation/)**: Each quarter and after staff changes, the facilities or office manager sets the key and badge register beside the current staff and contractor list and the areas each role may enter. Items held by leavers, duplicates, unassigned items and access wider than the role come back as questions. Nothing is disabled.
 - **[Lone work arrangements review](lone-work-arrangements-review/)**: For each task someone does alone, the manager gets the check-in method, the places where nobody could be reached, who responds when a check-in is missed and how soon, and alternatives. A competent person decides what is acceptable.
 - **[Repeat incident pattern review](repeat-incident-pattern-review/)**: A safety lead with a year of incident records and earlier actions gets them compared in groups: confirmed causes, what was done before, and where incidents recur, with questions for the team. A competent person judges what the pattern means.
 - **[Safety walk follow-up](safety-walk-follow-up/)**: After a safety walk, the manager gets a follow-up brief that ties each concern workers raised to the commitment the manager made, its owner and due date, and the message to give back. Gaps arrive as questions, never as guesses.

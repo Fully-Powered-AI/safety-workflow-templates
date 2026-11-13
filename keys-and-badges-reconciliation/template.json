@@ -1,0 +1,49 @@
+{
+  "id": "keys-and-badges-reconciliation",
+  "name": "Keys and badges reconciliation",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Each quarter and after staff changes, the facilities or office manager sets the key and badge register beside the current staff and contractor list and the areas each role may enter. Items held by leavers, duplicates, unassigned items and access wider than the role come back as questions. Nothing is disabled.",
+  "directory": "https://fullypowered.ai/workflows/keys-and-badges-reconciliation/",
+  "primary_function": "functions/health-safety-and-environment",
+  "functions": [
+    "functions/health-safety-and-environment",
+    "functions/executive-and-office-support",
+    "functions/information-security"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/manufacturing",
+    "industries/real-estate",
+    "industries/education"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "employee-offboarding-and-handover-checklist",
+    "learning-system-access-review",
+    "contractor-safety-prequalification"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of health, safety and environment work: reconciling issued keys and badges against current staff, written without third-party text."
+    }
+  ]
+}

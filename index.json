@@ -20,6 +20,14 @@
       "directory": "https://fullypowered.ai/workflows/ergonomic-review-inputs/"
     },
     {
+      "id": "keys-and-badges-reconciliation",
+      "name": "Keys and badges reconciliation",
+      "version": "0.1.0",
+      "summary": "Each quarter and after staff changes, the facilities or office manager sets the key and badge register beside the current staff and contractor list and the areas each role may enter. Items held by leavers, duplicates, unassigned items and access wider than the role come back as questions. Nothing is disabled.",
+      "path": "keys-and-badges-reconciliation/",
+      "directory": "https://fullypowered.ai/workflows/keys-and-badges-reconciliation/"
+    },
+    {
       "id": "lone-work-arrangements-review",
       "name": "Lone work arrangements review",
       "version": "0.1.0",
