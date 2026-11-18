@@ -273,4 +273,4 @@ the detail be removed from the source.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI and editorially reviewed. Run three times on its invented example in Claude on 10 November 2026, with the template edited after the first and second runs; the record published with it is of the third run, which was not blind and not independent (the assistant that made the edits had seen the example's output). Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI and editorially reviewed. Run three times on its invented example in Claude on 10 November 2026, with the template edited after the first and second runs; the record published with it is of the third run, which was not blind and not independent (the assistant that made the edits had seen the example's output). Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

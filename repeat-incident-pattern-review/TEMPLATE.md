@@ -251,4 +251,4 @@ they sound alike. The investigation lead decides which pattern matters.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Not yet tested in a client environment. Incidents outside the period are listed with their exact dates, because the 30-day question needs them, even when one shares a category and equipment with a group below the small-group limit.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Not yet tested in a client environment. Incidents outside the period are listed with their exact dates, because the 30-day question needs them, even when one shares a category and equipment with a group below the small-group limit.

@@ -236,4 +236,4 @@ the manager as the person who decides.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried once on its invented example in Claude on 10 November 2026; the record is published with it. The instructions were revised after an earlier trial and again after an independent review, and the record is of the run on the latest wording, made by the model that revised it. The check-in path has not been tried. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; the record is published with it. The instructions were revised after an earlier trial and again after an independent review, and the record is of the run on the latest wording, made by the model that revised it. The check-in path has not been tried. Not yet tested in a client environment.

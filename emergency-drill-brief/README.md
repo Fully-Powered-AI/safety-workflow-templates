@@ -55,11 +55,11 @@ Use your own emergency plan as the only authority: the workflow template adds no
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run three times on its invented example in Claude on 10 November 2026, the template being edited after the first and second runs. The record of the third run is published with it; that run was not blind (the assistant that made the edits had seen the example's output), so it shows the template can be followed to the same result, not that a model which had not seen the answer would reach it. It has not yet been tested in a client environment, and not as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run three times on its invented example in Claude on 10 November 2026, the template being edited after the first and second runs. The record of the third run is published with it; that run was not blind (the assistant that made the edits had seen the example's output), so it shows the template can be followed to the same result, not that a model which had not seen the answer would reach it. It has not yet been tested in a client environment, and not as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past drill your site remembers well, plus cases written in advance with their expected behaviour: a holder away on the day, an observer who also has a duty, an arrangement missing from your list, a scenario that asks for real fire or smoke. The responsible person checks every line against the emergency plan before anyone relies on it. [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/) teaches new people the arrangements; this workflow template tests them. [Business continuity plan](https://fullypowered.ai/workflows/business-continuity-plan/) is about keeping the business running afterwards, which is a different piece of work.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -90,4 +90,4 @@ Testing in your environment means running it on a past drill your site remembers
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
