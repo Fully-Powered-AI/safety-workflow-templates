@@ -4,6 +4,8 @@ For a site or operations manager with temporary changes to equipment, layout or 
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/temporary-change-register/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/temporary-change-register/?from=gh-safety-temporary-change-register)
+
 ## The outcome
 
 Every temporary change on the site sits on one list, in the same shape each time. For each one the manager can see when it was made, who approved it, when it was meant to end, which checks have been done and which have not, and which procedures and briefings it affects. The ones that have run past their date come first, then those with no date at all, then those about to expire.

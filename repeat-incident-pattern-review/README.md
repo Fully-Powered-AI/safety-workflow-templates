@@ -4,6 +4,8 @@ A safety lead with a year of incident records and earlier actions gets them comp
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/repeat-incident-pattern-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/repeat-incident-pattern-review/?from=gh-safety-repeat-incident-pattern-review)
+
 ## The outcome
 
 Each incident was investigated on its own, closed on its own and filed on its own. Nobody was asked to look across them. This workflow template does that one piece of work. It lays a year of records side by side and shows which confirmed causes keep coming back, at which task or piece of equipment, what was done after the earlier events, and whether the next event came after that action was finished.

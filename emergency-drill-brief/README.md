@@ -4,6 +4,8 @@ Before a fire, evacuation or other drill, the site or office manager gets one br
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/emergency-drill-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/emergency-drill-brief/?from=gh-safety-emergency-drill-brief)
+
 ## The outcome
 
 A drill is worth running only if it answers a question. The brief starts there: one question, taken from something the site wants to learn, such as whether a corrected arrangement now holds or whether everyone can be counted when one exit cannot be used.

@@ -4,6 +4,8 @@ Each quarter and after staff changes, the facilities or office manager sets the 
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/keys-and-badges-reconciliation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/keys-and-badges-reconciliation/?from=gh-safety-keys-and-badges-reconciliation)
+
 ## The outcome
 
 You know who can get into which rooms, on paper and in fact. Every key, fob and badge on your register is accounted for in one dated reconciliation, and the totals tie back to the register so nothing slips through the count.

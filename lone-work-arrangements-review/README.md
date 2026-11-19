@@ -4,6 +4,8 @@ For each task someone does alone, the manager gets the check-in method, the plac
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lone-work-arrangements-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/lone-work-arrangements-review/?from=gh-safety-lone-work-arrangements-review)
+
 ## The outcome
 
 Every task your people do alone is read against the same questions. How often does anyone hear from the person? Can the means of contact actually work at that spot, and has anyone checked? If a check-in does not come, who acts first, how long do they wait, who goes to the place, and are they on duty and close enough when it happens?

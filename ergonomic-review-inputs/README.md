@@ -4,6 +4,8 @@ For a supervisor preparing for an ergonomics assessor or a worker's complaint ab
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ergonomic-review-inputs/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/ergonomic-review-inputs/?from=gh-safety-ergonomic-review-inputs)
+
 ## The outcome
 
 When a task is referred for an ergonomic assessment, the assessor's first questions are always the same: what exactly do people do, for how long, how often, handling what, and what has been measured? This workflow template puts the answers on one record, written from what the supervisor actually saw and measured, so the assessor spends the visit assessing instead of collecting.

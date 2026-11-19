@@ -4,6 +4,8 @@ For one task or workplace, the site or operations manager gets each hazard, who 
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/workplace-risk-assessment/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/workplace-risk-assessment/?from=gh-safety-workplace-risk-assessment)
+
 ## The outcome
 
 The assessment is written about the work your people actually do, step by step, from what they told you on the walk-round. Each hazard says how someone would get hurt and who that could be, what already protects them, how likely and how bad the harm is today, and what changes once the further controls are in.
