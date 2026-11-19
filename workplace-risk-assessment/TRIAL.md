@@ -1,10 +1,10 @@
-# Workplace risk assessment: trial on the invented example
+# Workplace risk assessment: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [public/example.md](example.md): the scope brief, the four steps, the walk-round notes and the four-row incident log, with no other records and no High deadline given. No client data was used.
+The inputs are the example in [public/example.md](example.md): the scope brief, the four steps, the walk-round notes and the four-row incident log, with no other records and no High deadline given. No client data was used.
 
 This is the second run. The first, earlier on 10 November 2026 with Claude Sonnet 5.5, was done by an assistant that read the published example output only after it ran. It produced a complete draft and found ambiguities that an independent review then confirmed. Its output is not published. The template was revised after that review: the level of each control is written by its name; hazards are numbered in the order of the steps; interim controls do not count toward the after rating; a control proposed because the notes' controls alone would leave a hazard High or Very high now shows that rating in its reason; a control proposed by the assistant always raises the "no owner" and "no date" flag; a severity judged from the kind of event is allowed, and marked so; and the pasted instructions now carry who could be harmed, what each band requires, the full list of things to check and the stop for one person's health or fitness to work.
 
@@ -149,4 +149,4 @@ Draft for the external health and safety adviser's review. Nothing has been assi
 - This run: every severity of 5 (marked as judged from the kind of event); the notes-only rating for H4 and the reason that the bags would still be lowered to the bottom shelf; the interim and extra controls (all marked proposed).
 - The example: every severity of 5 (marked the same way); the interim controls (marked proposed).
 
-**Overall.** The revised template produced a complete, well-formed draft that obeyed its stop and decline rules and kept every decision with a person. The changes after review removed the formatting and ordering differences the first run found. Ratings and the choice of an extra control still rest on judgment, now marked as such, so two runs on the same inputs can differ in a number or an extra action; a competent person confirms every rating. This was one run, by the assistant that revised the template, on one invented example; it is not a test in a client environment.
+**Overall.** The revised template produced a complete, well-formed draft that obeyed its stop and decline rules and kept every decision with a person. The changes after review removed the formatting and ordering differences the first run found. Ratings and the choice of an extra control still rest on judgment, now marked as such, so two runs on the same inputs can differ in a number or an extra action; a competent person confirms every rating. This was one run, by the assistant that revised the template, on one example; it is not a test in a client environment.

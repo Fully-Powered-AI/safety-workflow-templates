@@ -1,6 +1,6 @@
-# Repeat incident pattern review: an invented example
+# Repeat incident pattern review: an example
 
-*Illustrative example with invented data.* The business, the incidents, the dates, the people's roles and every figure below are invented. The business is an invented packaging and dispatch plant, called the Plant here, with a packing hall, a returns area, a goods-in dock and a dispatch dock. Its operations manager keeps the incident register and asked for a review of the year to 31 October 2026. The register has already been de-identified.
+*Illustrative example with sample data.* The business, the incidents, the dates, the people's roles and every figure below are illustrative. The business is an illustrative packaging and dispatch plant, called the Plant here, with a packing hall, a returns area, a goods-in dock and a dispatch dock. Its operations manager keeps the incident register and asked for a review of the year to 31 October 2026. The register has already been de-identified.
 
 The inputs come first, in full, so the template can be run on them. The review follows.
 

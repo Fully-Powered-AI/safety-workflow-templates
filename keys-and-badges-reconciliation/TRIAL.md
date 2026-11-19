@@ -1,17 +1,17 @@
-# Keys and badges reconciliation: trial on the invented example
+# Keys and badges reconciliation: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-The inputs for this trial are the invented example in [example.md](example.md): the settings, the register of 24 rows, the people list, the role list, the area list and the two approved exceptions. No client data was used. This is the third run. The first run found a gap, and the template was revised; the second run was made on the revised template, and its record was reviewed independently. That review asked for small changes: a rule for the order of findings, lower-case types and kinds, who supplies a missing role-list entry, requests that arrive in the settings block, whether a badge and a fob together are a duplicate, a note that width is checked once the right row of a repeated item is confirmed, and a second sum on the tie-out line. The template was revised again for those, and this run is on the revised template. The model that ran this one is the model that made the revisions, so it is not an independent reader of the template; it read the revised template file and the example's inputs, produced the reconciliation, and only then compared it with the example's published output and the reviewer checklist. The earlier runs' outputs are not kept, and no independent run has been made on this version.
+The inputs for this trial are the example in [example.md](example.md): the settings, the register of 24 rows, the people list, the role list, the area list and the two approved exceptions. No client data was used. This is the third run. The first run found a gap, and the template was revised; the second run was made on the revised template, and its record was reviewed independently. That review asked for small changes: a rule for the order of findings, lower-case types and kinds, who supplies a missing role-list entry, requests that arrive in the settings block, whether a badge and a fob together are a duplicate, a note that width is checked once the right row of a repeated item is confirmed, and a second sum on the tie-out line. The template was revised again for those, and this run is on the revised template. The model that ran this one is the model that made the revisions, so it is not an independent reader of the template; it read the revised template file and the example's inputs, produced the reconciliation, and only then compared it with the example's published output and the reviewer checklist. The earlier runs' outputs are not kept, and no independent run has been made on this version.
 
 ## What came out
 
 The full output, as the assistant produced it before seeing the published one:
 
 ```
-KEY AND BADGE RECONCILIATION: Invented product design studio, as of 2026-11-06
+KEY AND BADGE RECONCILIATION: Illustrative product design studio, as of 2026-11-06
 
 For: Office manager. Register exported 2026-11-06; people list dated 2026-11-05; role list supplied, dated 2026-09-30; area list supplied, dated 2026-09-30; approved exceptions 2. Leaving-soon window 14 days; oldest people list accepted 14 days. Every setting was supplied, so none is a default.
 Register rows: 24. Spare, returned or disabled: 2. Lost: 1. Same item ID on two or more rows: 2 rows (1 with a holder who has left or is not on the people list). Unknown status: 0. Issued: 19, of which no holder ID 1, holder not on the people list 1, held by leavers 3, held by current people 14 (6 with a finding in section 4 or 5, 1 not checked for width, 7 with no finding).
@@ -98,7 +98,7 @@ It states no legal duty and certifies nothing.
 - The example's Declined line is shorter.
 - The example adds "key K12" and "(badge, MAIN)" after items in For information; the assistant did not.
 
-**Facts not in the inputs.** None. The organisation name now comes from the settings ("Invented product design studio"), and the two list dates come from the settings. Every name, date, count and area in the output traces to the inputs.
+**Facts not in the inputs.** None. The organisation name now comes from the settings ("Illustrative product design studio"), and the two list dates come from the settings. Every name, date, count and area in the output traces to the inputs.
 
 **Open points from the earlier review.** The template now states the order of findings (register order), lower-case types and kinds, who can supply a missing role-list entry (the register owner with the area owners) and that a request may arrive in the settings block. This run followed those statements. None of them changed a finding.
 
@@ -106,4 +106,4 @@ It states no legal duty and certifies nothing.
 
 **Which acceptance tests this run touches.** The acceptance tests are marked as proposed. This run covers the ordinary-quarter test (1), the request-to-disable test (12) and the leaver-in-a-same-ID-group test (14), and parts of tests 5 (P14 is on no people row), 7 (Person E's two badges), 9 (one exception in date, one ended) and 10 (the Receptionist role). It does not cover tests 2, 3, 4, 6, 8, 11, 13 or 15.
 
-This was one run, by the model that revised the template, on one invented example. It shows the instructions can be followed to the published result. It is not a test with a client or in other products.
+This was one run, by the model that revised the template, on one example. It shows the instructions can be followed to the published result. It is not a test with a client or in other products.

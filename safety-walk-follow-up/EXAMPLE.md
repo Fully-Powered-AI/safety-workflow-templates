@@ -1,6 +1,6 @@
-# Safety walk follow-up: an invented example
+# Safety walk follow-up: an example
 
-*Illustrative example with invented data.* Quillon Packing, the people and the concerns below are all invented. The inputs come first, then the brief.
+*Illustrative example with sample data.* Quillon Packing, the people and the concerns below are all illustrative. The inputs come first, then the brief.
 
 ## What the manager supplies
 

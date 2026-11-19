@@ -8,7 +8,7 @@ Compare the key and badge register with current staff, contractors and role area
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/keys-and-badges-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation)*
@@ -17,7 +17,7 @@ Compare the key and badge register with current staff, contractors and role area
 
 You know who can get into which rooms, on paper and in fact. Every key, fob and badge on your register is accounted for in one dated reconciliation, and the totals tie back to the register so nothing slips through the count.
 
-The items that need a decision arrive sorted: badges and keys still held by people who have left (including a copy listed twice under one item number), items whose holder is no longer on any list, badges issued to nobody and keys marked lost, a second badge nobody disabled, two copies of one key, and a contractor whose badge opens a room their role does not need (in the invented example, the server room when the role only needs the plant room). Each comes with its facts, a plain question and the person whose call it is. People leaving in the next fortnight are listed too, so their items are collected on the last day rather than chased afterwards.
+The items that need a decision arrive sorted: badges and keys still held by people who have left (including a copy listed twice under one item number), items whose holder is no longer on any list, badges issued to nobody and keys marked lost, a second badge nobody disabled, two copies of one key, and a contractor whose badge opens a room their role does not need (in the example, the server room when the role only needs the plant room). Each comes with its facts, a plain question and the person whose call it is. People leaving in the next fortnight are listed too, so their items are collected on the last day rather than chased afterwards.
 
 The register owner and the owner of each area decide. The AI assistant disables nothing, collects nothing, contacts no one, changes no record and reads no door logs.
 
@@ -42,7 +42,7 @@ One dated reconciliation in a fixed order. A header with the counts and a tie-ou
 
 Under them: the facts still missing, such as a role not on the role list; people leaving soon and what they hold; exceptions that applied; the decisions grouped by the person who makes them, each with a blank line for the decision, the name and the date; and anything the assistant declined to do. Where a section is empty it says "None."
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -64,7 +64,7 @@ Write your own role list and agree it with each area owner before the first run;
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It has not yet been tested in a client environment. It was tried on its invented example in three runs, the last on 12 November 2026; the record of the third is published with it. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It has not yet been tested in a client environment. It was tried on its example in three runs, the last on 12 November 2026; the record of the third is published with it. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past quarter your office manager already knows, plus cases written in advance, each with its expected result: a leaver still holding a badge, a holder matched by name only, a replacement badge never disabled, two different keys to one room, an exception that has ended, a renamed column. The register owner checks every finding against the register and the key cabinet before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation) describes the record we keep.
 
@@ -72,13 +72,13 @@ Testing in your environment means running it on a past quarter your office manag
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,10 +1,10 @@
-# Safety walk follow-up: tried once on its invented example
+# Safety walk follow-up: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) (Quillon Packing and its people and concerns). No client data was used. This is a single run of the current wording of the template, the instruction block and the output format in `member/template.md`, on the example's inputs only.
+The inputs are the example in [example.md](example.md) (Quillon Packing and its people and concerns). No client data was used. This is a single run of the current wording of the template, the instruction block and the output format in `member/template.md`, on the example's inputs only.
 
 An earlier run on the same day, of the first wording, was made by a model that did not write the template. It led to the revisions below, so its output is not kept here. The earlier run found these things: a light that is out was not clearly a "safety device or control"; a concern decided no action had no line in "Commitments by owner"; "Owner: not stated. Due: not stated." read as a gap for a decided no action; a commitment due before the give-back date still got a message promising a date that would have passed; no owner could be shown as having declined; and the example inferred "first name" and "not working properly" where the inputs said only "Mara" and "stiff". The template now settles each of these.
 
@@ -90,4 +90,4 @@ Draft for the Operations manager's approval. Nothing has been sent, assigned, re
 - **Points the revision was meant to settle, and what happened:** C1, a light that is out, was flagged "needs attention now" under the rule that an unclear item is flagged for the manager. C3's message was held because its due date is before the give-back date. C4, where the owner answer is "no", was flagged "owner has not accepted" and its message held. C6 printed "Owner, due date and owner accepted: not applicable." and appears under "Decided no action".
 - **Wording choices the instructions left open:** the held reason for C3 names both dates; the decision for C1 combines two kinds of flag in one decision with two questions, as the instructions ask. The raised-by line for C1 keeps the parenthetical "(the only driver on nights)" from the notes, as step 3 keeps the notes' words; the flag also states it.
 - **Still open:** a blank owner_accepted is shown as "not recorded", which the inputs now define. Whether a particular real item counts as a safety device is left to the manager by design.
-- **What this shows and does not show:** one run, one product, on an invented example, by the model that revised the template. It shows the revised instructions can be followed to the format. The check-in path (statuses, overdue, reported done, ready to close) was not exercised: this was a first run with no statuses. It does not show the template works with a client's real notes, and the acceptance tests in the template remain proposed and unrun.
+- **What this shows and does not show:** one run, one product, on an example, by the model that revised the template. It shows the revised instructions can be followed to the format. The check-in path (statuses, overdue, reported done, ready to close) was not exercised: this was a first run with no statuses. It does not show the template works with a client's real notes, and the acceptance tests in the template remain proposed and unrun.

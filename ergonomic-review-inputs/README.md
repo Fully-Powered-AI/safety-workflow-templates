@@ -8,7 +8,7 @@ Before an ergonomics assessor visits, get one task observation record of each st
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ergonomic-review-inputs/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs)*
@@ -42,7 +42,7 @@ One task observation record in a fixed order. A header with the task, the reason
 
 Then the totals that follow from the figures supplied, the feedback and suggestions that belong to no single step, the photographs listed but not interpreted, the places where the inputs disagree, every measurement still missing and who could supply it, a line stating what the record does not do, and a blank handover block. A good record can be checked against the supervisor's notes line by line, and every figure in it traces to something that was supplied.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -61,7 +61,7 @@ Decide who counts as the assessor and how they prefer to receive a record. Keep 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in three runs: the template and its example were revised after an independent review of the first, and again after a second review, and the record of the third is published with it. The first run was made by an assistant that did not write the template; the second and third runs were made by the assistant that revised it, so they do not replace an independent one. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026 in three runs: the template and its example were revised after an independent review of the first, and again after a second review, and the record of the third is published with it. The first run was made by an assistant that did not write the template; the second and third runs were made by the assistant that revised it, so they do not replace an independent one. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three tasks your assessor has already looked at, plus cases written in advance: a measurement table with a renamed column, a weight that differs between the notes and the table, a task with no timings, a worker's name and health detail in the feedback, a request to say whether a load is acceptable. The assessor checks every figure against the notes before anyone relies on the record. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs) describes the record we keep.
 
@@ -69,13 +69,13 @@ Testing in your environment means running it on two or three tasks your assessor
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,6 +1,6 @@
-# Lone work arrangements review: an invented example
+# Lone work arrangements review: an example
 
-*Illustrative example with invented data.* The business, the sites, the people, the roles, the tests, the dates and every figure below are invented. The business is an invented building-maintenance company that looks after two buildings, Site A and Site B. Its operations manager runs the review. Its outside health and safety adviser is the competent person, and the facilities supervisor is the work's supervisor. People appear by role.
+*Illustrative example with sample data.* The business, the sites, the people, the roles, the tests, the dates and every figure below are illustrative. The business is an illustrative building-maintenance company that looks after two buildings, Site A and Site B. Its operations manager runs the review. Its outside health and safety adviser is the competent person, and the facilities supervisor is the work's supervisor. People appear by role.
 
 The inputs come first, in full, then the review the template returns.
 
@@ -59,7 +59,7 @@ T3: Caretaker 1 texts Supervisor 2 on leaving at 18:45. If there is no text by 1
 ## The review the template returned
 
 ```
-LONE WORK ARRANGEMENTS REVIEW: the invented building-maintenance company, Sites A and B
+LONE WORK ARRANGEMENTS REVIEW: the illustrative building-maintenance company, Sites A and B
 
 For: outside health and safety adviser (competent person), with the facilities supervisor. Prepared 9 November 2026 from 5 tasks, 3 places, 5 responder rows and the existing procedure for 3 tasks.
 Limits used: longest time between contacts 60 minutes; wait before acting on a missed check-in 10 minutes; longest time for a responder to reach the site 30 minutes. Source: supplied by the operations manager.

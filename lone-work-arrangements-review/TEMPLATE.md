@@ -265,4 +265,4 @@ return the draft.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it and lists the edits made afterward, which have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried once on its example in Claude on 10 November 2026; the record of that run is published with it and lists the edits made afterward, which have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

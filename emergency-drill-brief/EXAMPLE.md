@@ -1,6 +1,6 @@
-# Emergency drill brief: an invented example
+# Emergency drill brief: an example
 
-*Illustrative example with invented data.* The company, the site, the roles, the arrangements, the findings, the dates and the times below are all invented, and the arrangements are not a model for any real site. The site is an invented packaging workshop with a first-floor office, run by an invented business called Company A. First come the inputs the site manager supplied, in full, then the brief the workflow template returned.
+*Illustrative example with sample data.* The company, the site, the roles, the arrangements, the findings, the dates and the times below are all illustrative, and the arrangements are not a model for any real site. The site is an illustrative packaging workshop with a first-floor office, run by an illustrative business called Company A. First come the inputs the site manager supplied, in full, then the brief the workflow template returned.
 
 ## The inputs
 

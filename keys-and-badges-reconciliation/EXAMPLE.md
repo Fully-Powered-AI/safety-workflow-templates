@@ -1,6 +1,6 @@
-# Keys and badges reconciliation: an invented example
+# Keys and badges reconciliation: an example
 
-*Illustrative example with invented data.* The studio, the people, the rooms, the keys, the badges and every date below are invented. The business is an invented product design studio with nine staff and two contractors, on one floor with a workshop, a server room, a finance records room and a plant room. Its office manager keeps the key and badge register and runs the reconciliation. People are shown as Person A, Person B and so on.
+*Illustrative example with sample data.* The studio, the people, the rooms, the keys, the badges and every date below are illustrative. The business is an illustrative product design studio with nine staff and two contractors, on one floor with a workshop, a server room, a finance records room and a plant room. Its office manager keeps the key and badge register and runs the reconciliation. People are shown as Person A, Person B and so on.
 
 The inputs come first, in full, then the reconciliation the template returns.
 
@@ -10,7 +10,7 @@ The inputs come first, in full, then the reconciliation the template returns.
 
 ```
 Review date: 2026-11-06
-Site or organisation: Invented product design studio
+Site or organisation: Illustrative product design studio
 Register owner: Office manager
 Register exported: 2026-11-06
 People list dated: 2026-11-05
@@ -104,7 +104,7 @@ P10 | B-110 | FIN | Finance manager | 2026-10-30
 ## The reconciliation the template returned
 
 ```
-KEY AND BADGE RECONCILIATION: Invented product design studio, as of 2026-11-06
+KEY AND BADGE RECONCILIATION: Illustrative product design studio, as of 2026-11-06
 
 For: Office manager. Register exported 2026-11-06; people list dated 2026-11-05; role list supplied, dated 2026-09-30; area list supplied, dated 2026-09-30; approved exceptions 2. Leaving-soon window 14 days; oldest people list accepted 14 days. All settings supplied; no defaults used.
 Register rows: 24. Spare, returned or disabled: 2. Lost: 1. Same item ID on two or more rows: 2 rows (1 with a holder who has left or is not on the people list). Unknown status: 0. Issued: 19, of which no holder ID 1, holder not on the people list 1, held by leavers 3, held by current people 14 (6 with a finding in section 4 or 5, 1 not checked for width, 7 with no finding).

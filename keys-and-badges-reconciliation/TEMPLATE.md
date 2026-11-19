@@ -296,4 +296,4 @@ repeat it; tell the user to remove it from the source.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work, in its own words. Editorially reviewed. Tried on its invented example in three runs, the last on 12 November 2026; the record of the third is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work, in its own words. Editorially reviewed. Tried on its example in three runs, the last on 12 November 2026; the record of the third is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

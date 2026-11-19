@@ -1,6 +1,6 @@
-# Temporary change register: an invented example
+# Temporary change register: an example
 
-*Illustrative example with invented data.* The site, the changes, the dates and the evidence references below are all invented. The site is an invented 90-person plastics moulding and packing site, called the Site here. The site manager runs the review; the site engineer is its competent person and decides each change. People are referred to by role.
+*Illustrative example with sample data.* The site, the changes, the dates and the evidence references below are all illustrative. The site is an illustrative 90-person plastics moulding and packing site, called the Site here. The site manager runs the review; the site engineer is its competent person and decides each change. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The register follows.
 

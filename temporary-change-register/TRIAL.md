@@ -1,10 +1,10 @@
-# Temporary change register: trial on the invented example
+# Temporary change register: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this run are the invented example in `public/example.md` (the settings, the change log and the item records, all invented). No client data was used. The run followed the instruction block in `member/template.md` and its output format. The model did not write the template. It read only the inputs of the example before producing the register, then compared its register with the example's.
+The inputs for this run are the example in `public/example.md` (the settings, the change log and the item records, all illustrative). No client data was used. The run followed the instruction block in `member/template.md` and its output format. The model did not write the template. It read only the inputs of the example before producing the register, then compared its register with the example's.
 
 ## Inputs used
 

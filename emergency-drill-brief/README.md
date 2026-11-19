@@ -8,7 +8,7 @@ One drill brief with the approved scenario, who does what, what observers record
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/emergency-drill-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief)*
@@ -44,7 +44,7 @@ One brief in a fixed order: the header and counts, the question the drill answer
 
 Every line traces to something you supplied. Where something was not supplied, the brief says so and asks. A person approves it before anything is announced or run.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -64,7 +64,7 @@ Use your own emergency plan as the only authority: the workflow template adds no
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run three times on its invented example in Claude on 10 November 2026, the template being edited after the first and second runs. The record of the third run is published with it; that run was not blind (the assistant that made the edits had seen the example's output), so it shows the template can be followed to the same result, not that a model which had not seen the answer would reach it. It has not yet been tested in a client environment, and not as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run three times on its example in Claude on 10 November 2026, the template being edited after the first and second runs. The record of the third run is published with it; that run was not blind (the assistant that made the edits had seen the example's output), so it shows the template can be followed to the same result, not that a model which had not seen the answer would reach it. It has not yet been tested in a client environment, and not as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past drill your site remembers well, plus cases written in advance with their expected behaviour: a holder away on the day, an observer who also has a duty, an arrangement missing from your list, a scenario that asks for real fire or smoke. The responsible person checks every line against the emergency plan before anyone relies on it. [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief) teaches new people the arrangements; this workflow template tests them. [Business continuity plan](https://fullypowered.ai/workflows/business-continuity-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief) is about keeping the business running afterwards, which is a different piece of work.
 
@@ -72,13 +72,13 @@ Testing in your environment means running it on a past drill your site remembers
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

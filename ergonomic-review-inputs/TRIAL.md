@@ -1,10 +1,10 @@
-# Ergonomic review inputs: trial on the invented example
+# Ergonomic review inputs: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the template's own invented example, in `public/example.md`: an invented 30-person home-goods fulfilment company, an invented task and invented people. No client data was used. The run used the six inputs in that file (referral brief, task steps, observation notes, measurements table, worker feedback, photograph list), as written, with no change to any input.
+The inputs are the template's own example, in `public/example.md`: an illustrative 30-person home-goods fulfilment company, an illustrative task and sample people. No client data was used. The run used the six inputs in that file (referral brief, task steps, observation notes, measurements table, worker feedback, photograph list), as written, with no change to any input.
 
 This is the third run. The first, earlier on 10 November 2026 with Claude Sonnet 5.5, was done by an assistant that did not write the template and read the published example output only after its own record was finished. An independent review of it found that the cycles-per-shift rule was only right for an observation of exactly one hour, that the example left out the paper dispenser's height, listed a shelf height the inputs do not mention and said nothing of a difference between the counted rate and the step times, and that the totals line had one person label for two people observed. The template was revised and a second run made by the assistant that revised it. Its published record was then failed by a second independent review, for these reasons: the line "WHERE THE INPUTS DISAGREE" read 2 although three disagreements followed and the header said 3, and the trial's commentary did not notice; the instruction block left out three rules the procedure states (a label weight is shown as read from a label, stop when the brief covers two tasks, the total is the sum of the step times); the missing-figure lines said "Carrying" where the notes say "lifts"; two open choices the second run recorded (whether taking a carton off a shelf is a lift, and whether a loosely stated distance is already given) were not settled in the template; and "why referred: both" read awkwardly. The first and second runs' outputs are not republished.
 
@@ -190,4 +190,4 @@ The choices the earlier run found open are now settled in the template, and this
 
 Against the reviewer checklist, the record met items 1, 2, 3, 5, 6, 7, 9 and 10. Items 4 and 8 depend on the assessor's judgement of the list of missing figures and of the disagreements, which the model cannot settle itself.
 
-This was a further run by the same model that revised the template, on one invented example. It shows the template produces a complete, checkable record from these inputs; it does not show how it performs in a client's own setting or in other products, and it is not an independent run.
+This was a further run by the same model that revised the template, on one example. It shows the template produces a complete, checkable record from these inputs; it does not show how it performs in a client's own setting or in other products, and it is not an independent run.

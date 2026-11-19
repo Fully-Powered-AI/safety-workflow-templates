@@ -1,10 +1,10 @@
-# Repeat incident pattern review: tried once on its invented example
+# Repeat incident pattern review: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) (an invented packaging and dispatch plant). No client data was used. The run was a single attempt by a model that did not write the template. One thing weakens it: the example file was read in one piece, so the published review was seen before this one was produced. The review below was still worked out from the inputs, with the day counts recomputed by script, but it is not a blind run and the likeness to the published review should be read with that in mind.
+The inputs are the example in [example.md](example.md) (an illustrative packaging and dispatch plant). No client data was used. The run was a single attempt by a model that did not write the template. One thing weakens it: the example file was read in one piece, so the published review was seen before this one was produced. The review below was still worked out from the inputs, with the day counts recomputed by script, but it is not a blind run and the likeness to the published review should be read with that in mind.
 
 ## Inputs used
 

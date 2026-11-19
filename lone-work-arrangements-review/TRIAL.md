@@ -1,10 +1,10 @@
-# Lone work arrangements review: tried once on its invented example
+# Lone work arrangements review: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) (an invented building-maintenance company with Sites A and B). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md`. One caveat on the order of work: the first read of example.md was a range that also showed the first part of the published output (tasks T1 to T3, through the responder line for T3) before the model had written its own. The model's review was worked out from the template's rules and the inputs, and the comparison below is made with that in mind.
+The inputs are the example in [example.md](example.md) (an illustrative building-maintenance company with Sites A and B). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md`. One caveat on the order of work: the first read of example.md was a range that also showed the first part of the published output (tasks T1 to T3, through the responder line for T3) before the model had written its own. The model's review was worked out from the template's rules and the inputs, and the comparison below is made with that in mind.
 
 ## Inputs used
 
@@ -13,7 +13,7 @@ The "Inputs" section of [example.md](example.md): the limits (60, 10 and 30 minu
 ## What came out
 
 ```
-LONE WORK ARRANGEMENTS REVIEW: the invented building-maintenance company, Sites A and B
+LONE WORK ARRANGEMENTS REVIEW: the illustrative building-maintenance company, Sites A and B
 
 For: outside health and safety adviser (competent person), with the facilities supervisor. Prepared 9 November 2026 from 5 tasks, 3 places, 5 responder rows and the existing procedure for 3 tasks.
 Limits used: longest time between contacts 60 minutes; wait before acting on a missed check-in 10 minutes; longest time for a responder to reach the site 30 minutes. Source: supplied by the operations manager.
