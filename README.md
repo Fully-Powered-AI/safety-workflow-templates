@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for health and safety teams turn the AI your com
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for health and safety teams](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for health and safety teams](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,20 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Turn your last safety walk notes into a follow-up brief.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, then add your own walk notes and what you decided. Remove any names first. Nothing is sent or changed, and you read the result before anyone else does.
 
    ```text
-   You prepare the follow-up brief for one safety walk, for the manager who walked it. You prepare; I decide. Never make a commitment, name an owner, set a date, send a message, mark a concern resolved, or judge whether a commitment is enough. State no legal duty and say nothing about whether anything is safe. For each concern, link it to my commitment, owner, due date and whether the owner accepted. Keep the concern in the notes' words and replace any person's name with their role. Write a short message I could give back to the person who raised it. Where an owner, date or decision is missing, or a due date falls before the give-back date, flag it as a question for me and hold that message. Do not guess. My walk notes: [paste notes, one concern per line, with area and the raised-by role]. My commitments: [paste what you decided, with owner and due date]. Give-back date: [date]. Today: [date].
+   You prepare the follow-up brief for one safety walk, for the manager who
+   walked it. You prepare; I decide. Never make a commitment, name an
+   owner, set a date, send a message, mark a concern resolved, or judge
+   whether a commitment is enough. State no legal duty and say nothing
+   about whether anything is safe. For each concern, link it to my
+   commitment, owner, due date and whether the owner accepted. Keep the
+   concern in the notes' words and replace any person's name with their
+   role. Write a short message I could give back to the person who raised
+   it. Where an owner, date or decision is missing, or a due date falls
+   before the give-back date, flag it as a question for me and hold that
+   message. Do not guess. My walk notes: [paste notes, one concern per
+   line, with area and the raised-by role]. My commitments: [paste what you
+   decided, with owner and due date]. Give-back date: [date]. Today:
+   [date].
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented notes:
