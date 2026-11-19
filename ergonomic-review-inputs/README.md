@@ -1,10 +1,17 @@
 # Ergonomic review inputs
 
-For a supervisor preparing for an ergonomics assessor or a worker's complaint about a task: a task observation record of each step's movements, durations, loads and measurements as supplied, the measurements still missing, and what the people who do the task said.
+Before an ergonomics assessor visits, get one task observation record of each step, the missing measurements and what workers said. The assessor decides.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ergonomic-review-inputs/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Ergonomic review inputs on our website](https://fullypowered.ai/workflows/ergonomic-review-inputs/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/ergonomic-review-inputs/?from=gh-safety-ergonomic-review-inputs)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ergonomic-review-inputs/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs)*
 
 ## The outcome
 
@@ -39,14 +46,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where task referrals, complaints and assessments are tracked and the assessor's findings are owned.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where repeated handling at benches, lines and packing stations is the everyday subject of ergonomic reviews.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where loading, picking and putting away make lifting and carrying the core of the work.
-- [Construction](https://fullypowered.ai/industries/construction/), where tasks change with every site and the working position changes with them.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where long-standing tasks are done the way they always have been until someone complains.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where higher volumes change how often and how long a task is done.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs), where task referrals, complaints and assessments are tracked and the assessor's findings are owned.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs), where repeated handling at benches, lines and packing stations is the everyday subject of ergonomic reviews.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs), where loading, picking and putting away make lifting and carrying the core of the work.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs), where tasks change with every site and the working position changes with them.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs), where long-standing tasks are done the way they always have been until someone complains.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs), where higher volumes change how often and how long a task is done.
 
-It stays distinct from [workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/), which rates hazards and proposes controls. This workflow template only records the task for the person who will judge it. [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/) is the right place when an injury has already happened.
+It stays distinct from [workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs), which rates hazards and proposes controls. This workflow template only records the task for the person who will judge it. [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs) is the right place when an injury has already happened.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Decide who counts as the assessor and how they prefer to receive a record. Keep 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in three runs: the template and its example were revised after an independent review of the first, and again after a second review, and the record of the third is published with it. The first run was made by an assistant that did not write the template; the second and third runs were made by the assistant that revised it, so they do not replace an independent one. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three tasks your assessor has already looked at, plus cases written in advance: a measurement table with a renamed column, a weight that differs between the notes and the table, a task with no timings, a worker's name and health detail in the feedback, a request to say whether a load is acceptable. The assessor checks every figure against the notes before anyone relies on the record. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three tasks your assessor has already looked at, plus cases written in advance: a measurement table with a renamed column, a weight that differs between the notes and the table, a task with no timings, a worker's name and health detail in the feedback, a request to say whether a load is acceptable. The assessor checks every figure against the notes before anyone relies on the record. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,9 +91,9 @@ Testing in your environment means running it on two or three tasks your assessor
 ## Related workflow templates
 
 - [Workplace risk assessment](../workplace-risk-assessment/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
-- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-ergonomic-review-inputs&from=gh-safety-ergonomic-review-inputs).

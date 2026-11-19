@@ -1,10 +1,17 @@
 # Temporary change register
 
-For a site or operations manager with temporary changes to equipment, layout or process still in place: a register of every change with its expiry date, the checks still outstanding and the procedures and training it touches, ready for the competent person who decides what happens next.
+See every temporary change with its expiry, outstanding checks and affected procedures, ready for the competent person who decides what happens next.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/temporary-change-register/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Temporary change register on our website](https://fullypowered.ai/workflows/temporary-change-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/temporary-change-register/?from=gh-safety-temporary-change-register)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/temporary-change-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register)*
 
 ## The outcome
 
@@ -28,30 +35,30 @@ The site manager, operations manager or the person who keeps the change log star
 
 A register in a fixed order: changes past their expiry, changes with no expiry date, changes expiring soon, changes in date with items outstanding, changes in date with nothing outstanding, ended changes with items still open, ended changes with nothing open, and any rows that could not be read. Each change shows its dates, its approval, how many times it has been extended, and every item with its state. Each change that needs a decision names who decides. The register closes with numbered questions for the facts the files left out, such as a missing approver or an expiry written as "after the audit".
 
-It is distinct from [preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/), which plans the routine upkeep of equipment on a calendar. This one follows the departures from normal: what was changed for now and what has to happen before it ends.
+It is distinct from [preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register), which plans the routine upkeep of equipment on a calendar. This one follows the departures from normal: what was changed for now and what has to happen before it ends.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where a change that outlives its approval is exactly what a competent person wants to see first.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the manager who keeps the site running is the one who makes the temporary fixes.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where a line runs on a workaround through the next order.
-- [Construction](https://fullypowered.ai/industries/construction/), where site layouts, access routes and temporary works change week by week.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where a closed dock door or a moved charging bay becomes the new routine.
-- [Energy](https://fullypowered.ai/industries/energy/), where a changed setting or a bridged arrangement needs an owner and an end.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a site has accumulated years of fixes that nobody listed.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new volume forces layout and process changes faster than the paperwork follows.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register), where a change that outlives its approval is exactly what a competent person wants to see first.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register), where the manager who keeps the site running is the one who makes the temporary fixes.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register), where a line runs on a workaround through the next order.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register), where site layouts, access routes and temporary works change week by week.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register), where a closed dock door or a moved charging bay becomes the new routine.
+- [Energy](https://fullypowered.ai/industries/energy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register), where a changed setting or a bridged arrangement needs an owner and an end.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register), where a site has accumulated years of fixes that nobody listed.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register), when new volume forces layout and process changes faster than the paperwork follows.
 
 ## What has to change for your company
 
-Name who decides: the competent person for your site, and what your own rules say they must confirm. Set your review rhythm, how many days ahead counts as "expiring soon", and how long a change may stay in place before it is questioned. Decide what your site counts as a change, and which of your documents the item records should point to. Agree where the log lives and who keeps it current, because the register is only as good as that file. It runs in ChatGPT, Claude, Copilot or Gemini from the exports you supply, with no connection to any system. Which changes need formal assessment, and what that assessment holds, is set by your own procedures and by the rules that apply to your site; the register does not say. [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/) covers what to do when a change is linked to something that went wrong, and [site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/) covers what newcomers are told about the site as it now stands.
+Name who decides: the competent person for your site, and what your own rules say they must confirm. Set your review rhythm, how many days ahead counts as "expiring soon", and how long a change may stay in place before it is questioned. Decide what your site counts as a change, and which of your documents the item records should point to. Agree where the log lives and who keeps it current, because the register is only as good as that file. It runs in ChatGPT, Claude, Copilot or Gemini from the exports you supply, with no connection to any system. Which changes need formal assessment, and what that assessment holds, is set by your own procedures and by the rules that apply to your site; the register does not say. [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register) covers what to do when a change is linked to something that went wrong, and [site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register) covers what newcomers are told about the site as it now stands.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template in its own words. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026; the record is published with it, and lists the edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past month of your own log that the site manager already knows, plus hard cases written in advance, each with its expected behavior: a renamed column, an expiry that is not a date, a change with no approver, an extension that was never recorded, a check marked done with no evidence, an ended change with a restoration check still open. The site manager checks every date and count against the log, and the competent person confirms every decision before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past month of your own log that the site manager already knows, plus hard cases written in advance, each with its expected behavior: a renamed column, an expiry that is not a date, a change with no approver, an extension that was never recorded, a check marked done with no evidence, an ended change with a restoration check still open. The site manager checks every date and count against the log, and the competent person confirms every decision before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -78,10 +85,10 @@ Testing in your environment means running it on a past month of your own log tha
 
 ## Related workflow templates
 
-- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
-- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
+- [Preventive maintenance plan](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-temporary-change-register&from=gh-safety-temporary-change-register).

@@ -1,10 +1,17 @@
 # Emergency drill brief
 
-Before a fire, evacuation or other drill, the site or office manager gets one brief: the scenario the responsible person has approved, who does what, what each observer records, and the questions for the debrief. It writes no emergency plan.
+One drill brief with the approved scenario, who does what, what observers record and debrief questions. A person approves it; it writes no emergency plan.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/emergency-drill-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Emergency drill brief on our website](https://fullypowered.ai/workflows/emergency-drill-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/emergency-drill-brief/?from=gh-safety-emergency-drill-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/emergency-drill-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief)*
 
 ## The outcome
 
@@ -41,15 +48,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), which owns the emergency arrangements and the drills that test them.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where a drill is a planned interruption to live work and the follow-up should reach someone who owns it.
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/), where the office manager often runs the drill for a building.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where noise, machinery and yard routes shape what a drill can show.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where vehicles, shift patterns and visitors change who is on site.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where guests and casual staff are part of every evacuation.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where visitors, floors of tenants and shared stairs make the roll call the hard part.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the plan was written years ago and drills have become a habit.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), where a new unit or floor has people who have never walked the routes.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief), which owns the emergency arrangements and the drills that test them.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief), where a drill is a planned interruption to live work and the follow-up should reach someone who owns it.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief), where the office manager often runs the drill for a building.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief), where noise, machinery and yard routes shape what a drill can show.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief), where vehicles, shift patterns and visitors change who is on site.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief), where guests and casual staff are part of every evacuation.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief), where visitors, floors of tenants and shared stairs make the roll call the hard part.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief), where the plan was written years ago and drills have become a habit.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief), where a new unit or floor has people who have never walked the routes.
 
 ## What has to change for your company
 
@@ -59,7 +66,7 @@ Use your own emergency plan as the only authority: the workflow template adds no
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run three times on its invented example in Claude on 10 November 2026, the template being edited after the first and second runs. The record of the third run is published with it; that run was not blind (the assistant that made the edits had seen the example's output), so it shows the template can be followed to the same result, not that a model which had not seen the answer would reach it. It has not yet been tested in a client environment, and not as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past drill your site remembers well, plus cases written in advance with their expected behaviour: a holder away on the day, an observer who also has a duty, an arrangement missing from your list, a scenario that asks for real fire or smoke. The responsible person checks every line against the emergency plan before anyone relies on it. [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/) teaches new people the arrangements; this workflow template tests them. [Business continuity plan](https://fullypowered.ai/workflows/business-continuity-plan/) is about keeping the business running afterwards, which is a different piece of work.
+Testing in your environment means running it on a past drill your site remembers well, plus cases written in advance with their expected behaviour: a holder away on the day, an observer who also has a duty, an arrangement missing from your list, a scenario that asks for real fire or smoke. The responsible person checks every line against the emergency plan before anyone relies on it. [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief) teaches new people the arrangements; this workflow template tests them. [Business continuity plan](https://fullypowered.ai/workflows/business-continuity-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief) is about keeping the business running afterwards, which is a different piece of work.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -86,10 +93,10 @@ Testing in your environment means running it on a past drill your site remembers
 
 ## Related workflow templates
 
-- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
-- [Business continuity plan](https://fullypowered.ai/workflows/business-continuity-plan/)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief)
+- [Business continuity plan](https://fullypowered.ai/workflows/business-continuity-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief)
 - [Workplace risk assessment](../workplace-risk-assessment/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-emergency-drill-brief&from=gh-safety-emergency-drill-brief).

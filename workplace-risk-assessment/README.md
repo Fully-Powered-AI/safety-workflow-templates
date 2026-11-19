@@ -1,10 +1,17 @@
 # Workplace risk assessment
 
-For one task or workplace, the site or operations manager gets each hazard, who could be harmed, the controls already in place, a likelihood-and-severity rating before and after, and further controls with an owner and a date, ready for a competent person to review and sign.
+For one task or workplace, get each hazard, who could be harmed, controls and ratings before and after, ready for a competent person to review and sign.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/workplace-risk-assessment/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Workplace risk assessment on our website](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/workplace-risk-assessment/?from=gh-safety-workplace-risk-assessment)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment)*
 
 ## The outcome
 
@@ -40,24 +47,24 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the person who runs the work owns how safely it runs.
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), which sets the scale, names the competent people and keeps the signed assessments.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where machines, materials and shift patterns change often enough to need the assessment rerun.
-- [Construction](https://fullypowered.ai/industries/construction/), where every site and every phase brings its own hazards.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where vehicles, forklifts and people share the same yard.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where kitchens, cellars and busy floors are workplaces too.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where assessments written years ago no longer match the work.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a new site, a new shift or new equipment arrives before anyone has written it down.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment), where the person who runs the work owns how safely it runs.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment), which sets the scale, names the competent people and keeps the signed assessments.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment), where machines, materials and shift patterns change often enough to need the assessment rerun.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment), where every site and every phase brings its own hazards.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment), where vehicles, forklifts and people share the same yard.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment), where kitchens, cellars and busy floors are workplaces too.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment), where assessments written years ago no longer match the work.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment), when a new site, a new shift or new equipment arrives before anyone has written it down.
 
 ## What has to change for your company
 
-Set your own rating scale or keep the one supplied, and decide how many days a High hazard's fix may take. Name your competent person for each kind of work, and who names owners and dates. Decide how often each assessment is reviewed, where signed assessments are kept and how the people who do the work see theirs. Legal duties for risk assessment differ by country and by sector, so your competent person confirms which apply; the template cites none. Work that needs measuring, such as noise or dust, goes to a specialist. It runs in ChatGPT, Claude, Copilot or Gemini from the notes and records you supply, with no connection to any system. When the steps themselves need writing down first, [SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/) does that, and [training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/) picks up the training an action calls for.
+Set your own rating scale or keep the one supplied, and decide how many days a High hazard's fix may take. Name your competent person for each kind of work, and who names owners and dates. Decide how often each assessment is reviewed, where signed assessments are kept and how the people who do the work see theirs. Legal duties for risk assessment differ by country and by sector, so your competent person confirms which apply; the template cites none. Work that needs measuring, such as noise or dust, goes to a specialist. It runs in ChatGPT, Claude, Copilot or Gemini from the notes and records you supply, with no connection to any system. When the steps themselves need writing down first, [SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment) does that, and [training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment) picks up the training an action calls for.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs: the template was revised after an independent review of the first, and the record of the second is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three tasks your competent person already knows well, plus hard cases written in advance, each with its expected behavior: a request for "the whole warehouse", a log with a renamed column, a fix dated after the deadline, a noise hazard controlled by ear plugs alone, a name and an injury in the notes. The competent person checks every rating and every hazard against the walk-round before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three tasks your competent person already knows well, plus hard cases written in advance, each with its expected behavior: a request for "the whole warehouse", a log with a renamed column, a fix dated after the deadline, a noise hazard controlled by ear plugs alone, a name and an injury in the notes. The competent person checks every rating and every hazard against the walk-round before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,10 +91,10 @@ Testing in your environment means running it on two or three tasks your competen
 
 ## Related workflow templates
 
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
-- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/)
-- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment)
+- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-workplace-risk-assessment&from=gh-safety-workplace-risk-assessment).

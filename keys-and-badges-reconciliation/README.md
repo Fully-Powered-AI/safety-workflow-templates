@@ -1,10 +1,17 @@
 # Keys and badges reconciliation
 
-Each quarter and after staff changes, the facilities or office manager sets the key and badge register beside the current staff and contractor list and the areas each role may enter. Items held by leavers, duplicates, unassigned items and access wider than the role come back as questions. Nothing is disabled.
+Compare the key and badge register with current staff, contractors and role areas: leavers' items, duplicates, unassigned items and wider access.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/keys-and-badges-reconciliation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Keys and badges reconciliation on our website](https://fullypowered.ai/workflows/keys-and-badges-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/keys-and-badges-reconciliation/?from=gh-safety-keys-and-badges-reconciliation)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/keys-and-badges-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation)*
 
 ## The outcome
 
@@ -39,17 +46,17 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where physical security keeps restricted rooms, plant and stores closed to people who should not be there.
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/), where the office manager issues keys and badges and keeps the register.
-- [Information security](https://fullypowered.ai/functions/information-security/), which owns the question of who can reach the server room and the records.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client files and finance records sit behind doors that staff come and go through.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where workshops, stores and plant rooms each have their own keys and a steady flow of contractors.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where property managers hold keys and fobs for buildings, plant and common areas.
-- [Education](https://fullypowered.ai/industries/education/), where staff, supply staff and contractors carry keys to classrooms, offices and stores.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where keys handed out years ago are still in pockets nobody remembers.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new starters, new rooms and new contractors arrive faster than the register is kept.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), where physical security keeps restricted rooms, plant and stores closed to people who should not be there.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), where the office manager issues keys and badges and keeps the register.
+- [Information security](https://fullypowered.ai/functions/information-security/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), which owns the question of who can reach the server room and the records.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), where client files and finance records sit behind doors that staff come and go through.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), where workshops, stores and plant rooms each have their own keys and a steady flow of contractors.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), where property managers hold keys and fobs for buildings, plant and common areas.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), where staff, supply staff and contractors carry keys to classrooms, offices and stores.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), where keys handed out years ago are still in pockets nobody remembers.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), when new starters, new rooms and new contractors arrive faster than the register is kept.
 
-It is a different piece of work from [the employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/), which follows one person's departure, and from [the learning system access review](https://fullypowered.ai/workflows/learning-system-access-review/), which checks software accounts rather than keys and badges.
+It is a different piece of work from [the employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), which follows one person's departure, and from [the learning system access review](https://fullypowered.ai/workflows/learning-system-access-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation), which checks software accounts rather than keys and badges.
 
 ## What has to change for your company
 
@@ -59,7 +66,7 @@ Write your own role list and agree it with each area owner before the first run;
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It has not yet been tested in a client environment. It was tried on its invented example in three runs, the last on 12 November 2026; the record of the third is published with it. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past quarter your office manager already knows, plus cases written in advance, each with its expected result: a leaver still holding a badge, a holder matched by name only, a replacement badge never disabled, two different keys to one room, an exception that has ended, a renamed column. The register owner checks every finding against the register and the key cabinet before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past quarter your office manager already knows, plus cases written in advance, each with its expected result: a leaver still holding a badge, a holder matched by name only, a replacement badge never disabled, two different keys to one room, an exception that has ended, a renamed column. The register owner checks every finding against the register and the key cabinet before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -86,10 +93,10 @@ Testing in your environment means running it on a past quarter your office manag
 
 ## Related workflow templates
 
-- [Employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/)
-- [Learning system access review](https://fullypowered.ai/workflows/learning-system-access-review/)
-- [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/)
+- [Employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation)
+- [Learning system access review](https://fullypowered.ai/workflows/learning-system-access-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation)
+- [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-keys-and-badges-reconciliation&from=gh-safety-keys-and-badges-reconciliation).

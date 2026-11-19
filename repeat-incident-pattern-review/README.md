@@ -1,10 +1,17 @@
 # Repeat incident pattern review
 
-A safety lead with a year of incident records and earlier actions gets them compared in groups: confirmed causes, what was done before, and where incidents recur, with questions for the team. A competent person judges what the pattern means.
+Compare a year of incident records and earlier actions in groups to see which causes recur, with questions for the team. A person judges the pattern.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/repeat-incident-pattern-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Repeat incident pattern review on our website](https://fullypowered.ai/workflows/repeat-incident-pattern-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/repeat-incident-pattern-review/?from=gh-safety-repeat-incident-pattern-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/repeat-incident-pattern-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review)*
 
 ## The outcome
 
@@ -12,7 +19,7 @@ Each incident was investigated on its own, closed on its own and filed on its ow
 
 The result is a short list of groups and a list of questions. It does not say what a pattern means. The investigation lead reads it, decides which group deserves a closer look and takes that to the team.
 
-It investigates no single event, and it certifies nothing. For one incident, use [incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/).
+It investigates no single event, and it certifies nothing. For one incident, use [incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review).
 
 ## Who starts the work, and when
 
@@ -34,13 +41,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where the register and the action list sit and where the next review begins.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the layouts, routes and routines that a pattern points at are owned.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), which asks the same question of defects and complaints.
-- [Construction](https://fullypowered.ai/industries/construction/), where the same hazards return on each new site.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where one machine or one changeover can sit behind several events.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where vehicles, docks and people on foot meet every day.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where years of incident records exist and nobody has time to read them together.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review), where the register and the action list sit and where the next review begins.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review), where the layouts, routes and routines that a pattern points at are owned.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review), which asks the same question of defects and complaints.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review), where the same hazards return on each new site.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review), where one machine or one changeover can sit behind several events.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review), where vehicles, docks and people on foot meet every day.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review), where years of incident records exist and nobody has time to read them together.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Name who reads the review and who decides what happens next. Agree your cause ca
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. The record lists the points where the instructions were ambiguous and the edits made afterward, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past year your safety lead already knows well, plus cases written in advance: two incidents that sound alike but have different confirmed causes, a column renamed in the export, a category spelled two ways, an action marked closed with no completion date. The safety lead checks every group against the register before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past year your safety lead already knows well, plus cases written in advance: two incidents that sound alike but have different confirmed causes, a column renamed in the export, a category spelled two ways, an action marked closed with no completion date. The safety lead checks every group against the register before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -77,10 +84,10 @@ Testing in your environment means running it on a past year your safety lead alr
 
 ## Related workflow templates
 
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review)
 - [Workplace risk assessment](../workplace-risk-assessment/)
-- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/)
+- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-repeat-incident-pattern-review&from=gh-safety-repeat-incident-pattern-review).

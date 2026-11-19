@@ -1,14 +1,57 @@
-# FullyPowered Workflow Templates: Health, Safety and Environment
+# AI workflow templates for site, operations and safety managers
 
-Nothing learned the hard way twice. These workflow templates take the follow-up, reviewing and briefing around safety at work and give an AI assistant a precise way to prepare it. They state no legal duty and certify nothing: a competent person decides what is safe.
+FullyPowered Workflow Templates for health and safety teams turn the AI your company already pays for into a team that knows how the work is done: a site manager with the workplace risk assessment drafted for review, a safety lead with a year of incident records compared for patterns, a facilities manager with the key and badge register reconciled against current staff. 8 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for health, safety and environment teams](https://fullypowered.ai/functions/health-safety-and-environment/?from=gh-safety) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-safety)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for health and safety teams](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 8 workflow templates for site, operations and safety managers. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Owners and CEOs who want safety work prepared carefully and consistently across every site they run.
+- Site, operations and safety managers who want something their team can run this week.
+- The competent person who reviews each draft, signs it off and still makes every safety call.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Turn your last safety walk notes into a follow-up brief.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, then add your own walk notes and what you decided. Remove any names first. Nothing is sent or changed, and you read the result before anyone else does.
+
+   ```text
+   You prepare the follow-up brief for one safety walk, for the manager who walked it. You prepare; I decide. Never make a commitment, name an owner, set a date, send a message, mark a concern resolved, or judge whether a commitment is enough. State no legal duty and say nothing about whether anything is safe. For each concern, link it to my commitment, owner, due date and whether the owner accepted. Keep the concern in the notes' words and replace any person's name with their role. Write a short message I could give back to the person who raised it. Where an owner, date or decision is missing, or a due date falls before the give-back date, flag it as a question for me and hold that message. Do not guess. My walk notes: [paste notes, one concern per line, with area and the raised-by role]. My commitments: [paste what you decided, with owner and due date]. Give-back date: [date]. Today: [date].
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented notes:
+
+   ```text
+   SAFETY WALK FOLLOW-UP BRIEF: walk of Tuesday 3 November 2026
+
+   For: Operations manager. Areas walked: Goods-in dock, Packing hall, Maintenance workshop. Prepared: Wednesday 4 November 2026, from 6 concerns and 5 commitment rows, and no status file. Give-back date: Friday 6 November 2026.
+   Concerns: 6. Commitments stated: 4. Decided no action: 1. Awaiting decision: 1. Concerns flagged: 5.
+
+   C1, Goods-in dock. Raised by: Night-shift forklift driver (the only driver on nights).
+   Concern: The light at door 3 is out and the aisle is dark when the shift starts.
+   Commitment: Replace the light at door 3.
+   Owner: Maintenance lead. Due: Friday 6 November 2026. Owner accepted: yes.
+   Message to give back: "You told us the light at door 3 is out and the aisle is dark when the shift starts. The Maintenance lead will replace the light at door 3 by Friday 6 November 2026. If it has not happened by then, tell the Operations manager."
+   FLAG, needs attention now, role may identify the person: the concern describes a light as out and the aisle as dark, and the notes say there is one night-shift forklift driver. See decision 1.
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme).
+
+A person starts every workflow, supplies the inputs and decides; the template only prepares and checks, states no legal duty, certifies nothing, and a competent person decides what is safe.
+
+These are examples and a starting point, made to be changed to fit how your site works. Work that is not listed here can be built too, as one step or as many.
+
+## The safety workflow templates here today
 
 - **[Emergency drill brief](emergency-drill-brief/)**: Before a fire, evacuation or other drill, the site or office manager gets one brief: the scenario the responsible person has approved, who does what, what each observer records, and the questions for the debrief. It writes no emergency plan.
 - **[Ergonomic review inputs](ergonomic-review-inputs/)**: For a supervisor preparing for an ergonomics assessor or a worker's complaint about a task: a task observation record of each step's movements, durations, loads and measurements as supplied, the measurements still missing, and what the people who do the task said.
@@ -37,10 +80,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by team and by task, see [AI workflow examples for health, safety and environment teams](https://fullypowered.ai/functions/health-safety-and-environment/).
+For the work these templates come from, by team and by task, see [AI workflow examples for health, safety and environment teams](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-readme&from=gh-safety-readme).

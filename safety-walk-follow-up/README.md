@@ -1,10 +1,17 @@
 # Safety walk follow-up
 
-After a safety walk, the manager gets a follow-up brief that ties each concern workers raised to the commitment the manager made, its owner and due date, and the message to give back. Gaps arrive as questions, never as guesses.
+Tie each concern raised on a safety walk to a commitment, owner, due date and message to give back. The manager approves and gives it.
 
-*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/safety-walk-follow-up/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Safety walk follow-up on our website](https://fullypowered.ai/workflows/safety-walk-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/safety-walk-follow-up/?from=gh-safety-safety-walk-follow-up)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Health, safety and environment · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/safety-walk-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up)*
 
 ## The outcome
 
@@ -33,14 +40,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where promises made on the floor are the cheapest way to earn or lose trust.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the person who runs the work also owns what is promised about it.
-- [Construction](https://fullypowered.ai/industries/construction/), where a site walk produces a long list on a short timeline.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where concerns come from several shifts and lines and are easily lost between them.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where docks, yards and vehicles produce concerns that cross teams.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where walks happen on a rhythm and the follow-up lives in someone's notebook.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up), where promises made on the floor are the cheapest way to earn or lose trust.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up), where the person who runs the work also owns what is promised about it.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up), where a site walk produces a long list on a short timeline.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up), where concerns come from several shifts and lines and are easily lost between them.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up), where docks, yards and vehicles produce concerns that cross teams.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up), where walks happen on a rhythm and the follow-up lives in someone's notebook.
 
-It is not a risk assessment. [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/) rates hazards and proposes controls. This workflow template keeps track of what the manager promised in response to what people said, and does not judge whether a promise is enough.
+It is not a risk assessment. [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up) rates hazards and proposes controls. This workflow template keeps track of what the manager promised in response to what people said, and does not judge whether a promise is enough.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Decide how you refer to roles so that no one is identified, and who counts as to
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. That run was by the model that revised the template after an earlier trial and an independent review, so it is not an independent check, and it was a first run: the check-in path has not been tried. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on one or two past walks your manager remembers well, plus hard cases written in advance, each with its expected behavior: a concern with no commitment, a commitment with no owner, an owner who has not accepted, a name in the notes, a safety device described as not working, a due date earlier than the give-back date. The manager checks every line against the notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on one or two past walks your manager remembers well, plus hard cases written in advance, each with its expected behavior: a concern with no commitment, a commitment with no owner, an owner who has not accepted, a name in the notes, a safety device described as not working, a due date earlier than the give-back date. The manager checks every line against the notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -78,9 +85,9 @@ Testing in your environment means running it on one or two past walks your manag
 ## Related workflow templates
 
 - [Workplace risk assessment](../workplace-risk-assessment/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
-- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up)
+- [Site safety induction pack](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=safety-safety-walk-follow-up&from=gh-safety-safety-walk-follow-up).
